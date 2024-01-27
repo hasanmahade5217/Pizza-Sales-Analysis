@@ -1,4 +1,4 @@
-# Sales-Analysis
+# Pizza-Sales-Analysis
 
 This project involves analyzing a year's worth of sales data from an imaginary pizza shop. The dataset is collected from https://www.mavenanalytics.io/. The data includes details like the date, time, and specifics about each order, such as the type, size, quantity, price, and ingredients of the pizzas served.
 
