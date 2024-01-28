@@ -1,4 +1,4 @@
-# Sales-Analysis
+# Pizza-Sales-Analysis
 
 This project involves analyzing a year's worth of sales data from an imaginary pizza shop. The dataset is collected from https://www.mavenanalytics.io/. The data includes details like the date, time, and specifics about each order, such as the type, size, quantity, price, and ingredients of the pizzas served.
 
@@ -16,3 +16,5 @@ The goal is to identify opportunities for improvement, like potentially adjustin
 - Data Modelling
 - DAX Query
 - Data Visualization
+
+[Click here to view and Interact with the dashboard](https://app.powerbi.com/view?r=eyJrIjoiOGQwMGViMmItY2ZhNS00YjA2LWI3YWUtY2VkZWEwZDRmNTZkIiwidCI6ImZhNjk0NGFmLWNjN2MtNGNkOC05MTU0LWMwMTEzMjc5ODkxMCIsImMiOjl9)
