@@ -16,3 +16,5 @@ The goal is to identify opportunities for improvement, like potentially adjustin
 - Data Modelling
 - DAX Query
 - Data Visualization
+
+[Click here to view and Interact with the dashboard](https://app.powerbi.com/view?r=eyJrIjoiOGQwMGViMmItY2ZhNS00YjA2LWI3YWUtY2VkZWEwZDRmNTZkIiwidCI6ImZhNjk0NGFmLWNjN2MtNGNkOC05MTU0LWMwMTEzMjc5ODkxMCIsImMiOjl9)
